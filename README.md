@@ -1,0 +1,1 @@
+ITs an open Classroom 3D view  animation where everything is functional. Every operation from light on , turning fan on and off , light exposures and other viewing angle controlling can be done by keyboard transitions.
